@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "bs-platform" , "/home/mdemello/github/bsinput/node_modules/bs-platform" ] , [ "bucklescript-tea" , "/home/mdemello/github/bsinput/node_modules/bucklescript-tea" ] ] , "generated" : [] }
